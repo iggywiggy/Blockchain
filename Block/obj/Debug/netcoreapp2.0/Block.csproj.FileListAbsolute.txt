@@ -1,0 +1,13 @@
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Block\bin\Debug\netcoreapp2.0\Block.deps.json
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Block\bin\Debug\netcoreapp2.0\Block.runtimeconfig.json
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Block\bin\Debug\netcoreapp2.0\Block.runtimeconfig.dev.json
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Block\bin\Debug\netcoreapp2.0\Block.dll
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Block\bin\Debug\netcoreapp2.0\Block.pdb
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Block\bin\Debug\netcoreapp2.0\Chain.dll
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Block\bin\Debug\netcoreapp2.0\Chain.pdb
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Block\obj\Debug\netcoreapp2.0\Block.csprojResolveAssemblyReference.cache
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Block\obj\Debug\netcoreapp2.0\Block.csproj.CoreCompileInputs.cache
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Block\obj\Debug\netcoreapp2.0\Block.AssemblyInfoInputs.cache
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Block\obj\Debug\netcoreapp2.0\Block.AssemblyInfo.cs
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Block\obj\Debug\netcoreapp2.0\Block.dll
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Block\obj\Debug\netcoreapp2.0\Block.pdb

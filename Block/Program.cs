@@ -2,7 +2,7 @@
 using static System.Console;
 namespace Block
 {
-    class Program
+    static class Program
     {
         static void Main(string[] args)
         {

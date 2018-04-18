@@ -1,0 +1,9 @@
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Chain\bin\Debug\netstandard2.0\Chain.deps.json
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Chain\bin\Debug\netstandard2.0\Chain.dll
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Chain\bin\Debug\netstandard2.0\Chain.pdb
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Chain\obj\Debug\netstandard2.0\Chain.csprojResolveAssemblyReference.cache
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Chain\obj\Debug\netstandard2.0\Chain.csproj.CoreCompileInputs.cache
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Chain\obj\Debug\netstandard2.0\Chain.AssemblyInfoInputs.cache
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Chain\obj\Debug\netstandard2.0\Chain.AssemblyInfo.cs
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Chain\obj\Debug\netstandard2.0\Chain.dll
+C:\Users\lynnsay.piper\RiderProjects\Blockchain\Chain\obj\Debug\netstandard2.0\Chain.pdb
