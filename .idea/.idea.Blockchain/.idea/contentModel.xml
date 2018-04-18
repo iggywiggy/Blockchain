@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\lynnsay.piper\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Blockchain.865848205.00" t="ExcludeRecursive" />
+    <e p="C:\Users\lynnsay.piper\RiderProjects\Blockchain" t="IncludeFlat">
+      <e p="Block" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Block.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Block.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Blockchain.sln" t="IncludeFlat" />
+      <e p="Chain" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Block.cs" t="Include" />
+        <e p="Chain.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Chain.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="StringExtensions.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

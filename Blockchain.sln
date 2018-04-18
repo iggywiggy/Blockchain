@@ -1,0 +1,12 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain", "Chain\Chain.csproj", "{6BF7624D-7DFC-47C3-A3FF-BEB6D4C146DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Block", "Block\Block.csproj", "{2BB9BBCA-74C4-4569-B736-64F8B6FC4704}"
+EndProject
+Global
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	EndGlobalSection
+EndGlobal
